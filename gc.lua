@@ -61,7 +61,7 @@ titleBar.Size = UDim2.new(1, 0, 0, 34)
 titleBar.Position = UDim2.new(0, 0, 0, 0)
 titleBar.BackgroundColor3 = PANEL
 titleBar.BorderSizePixel = 0
-titleBar.Text = "🌸  SAKURA • Grass Cutters"
+titleBar.Text = "🌸  SAKURA • Grass Cutters - By ZYNE"
 titleBar.TextColor3 = SAKURA
 titleBar.Font = Enum.Font.GothamBold
 titleBar.TextSize = 14
@@ -126,7 +126,7 @@ styleButton(toggleBtn)
 local deleteBtn = Instance.new("TextButton", frame)
 deleteBtn.Size = UDim2.fromOffset(220, 28)
 deleteBtn.Position = UDim2.fromOffset(20, 86)
-deleteBtn.Text = "DELETE GrassMap"
+deleteBtn.Text = "DELETE Grass"
 deleteBtn.ZIndex = 11
 styleButton(deleteBtn)
 
